@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: ce1602162183fbb48a8a67d9aa97f9e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6802214514026201033
+    second: gasha_geki2_0
+  - first:
+      213: 6628857178601823623
+    second: gasha_geki2_4
+  - first:
+      213: -8349113423168326152
+    second: gasha_geki2_5
+  - first:
+      213: -826401136629278876
+    second: gasha_geki2_6
+  - first:
+      213: -8616348860279929173
+    second: gasha_geki2_8
+  - first:
+      213: 3818751681605069466
+    second: gasha_geki2_9
+  - first:
+      213: 554946994013391235
+    second: gasha_geki2_10
+  - first:
+      213: -221773128690898931
+    second: gasha_geki2_11
+  - first:
+      213: -811552134970884288
+    second: gasha_geki2_12
+  - first:
+      213: -7069176685207290583
+    second: gasha_geki2_13
+  - first:
+      213: 4608201045685639501
+    second: gasha_geki2_14
+  - first:
+      213: 4112385390981188418
+    second: gasha_geki2_15
+  - first:
+      213: 8380095649320284054
+    second: gasha_geki2_16
+  - first:
+      213: -7953583101012215023
+    second: gasha_geki2_17
+  - first:
+      213: 6875286424504982341
+    second: gasha_geki2_18
+  - first:
+      213: 7954435456833406387
+    second: gasha_geki2_19
+  - first:
+      213: 4574343894490080573
+    second: gasha_geki2_20
+  - first:
+      213: -8802699722877228809
+    second: gasha_geki2_21
+  - first:
+      213: -4227070784986009571
+    second: gasha_geki2_22
+  - first:
+      213: 3553431459327407136
+    second: gasha_geki2_23
+  - first:
+      213: 6985556879457214476
+    second: gasha_geki2_24
+  - first:
+      213: -3510915748650182109
+    second: gasha_geki2_25
+  - first:
+      213: -3542479880784725716
+    second: gasha_geki2_26
+  - first:
+      213: 4295518664170649075
+    second: gasha_geki2_27
+  - first:
+      213: -5163333277960634614
+    second: gasha_geki2_28
+  - first:
+      213: -1895703682801988729
+    second: gasha_geki2_29
+  - first:
+      213: 5067158784193306067
+    second: gasha_geki2_30
+  - first:
+      213: 4706859807687678096
+    second: gasha_geki2_31
+  - first:
+      213: -6778100403656242443
+    second: gasha_geki2_32
+  - first:
+      213: 7366536788070200231
+    second: gasha_geki2_33
+  - first:
+      213: 5021991868453214243
+    second: gasha_geki2_34
+  - first:
+      213: 6756800964788803010
+    second: gasha_geki2_35
+  - first:
+      213: -3253330331704390961
+    second: gasha_geki2_36
+  - first:
+      213: 6867875113470362170
+    second: gasha_geki2_37
+  - first:
+      213: 6221585690332552026
+    second: gasha_geki2_38
+  - first:
+      213: -768287121945680973
+    second: gasha_geki2_39
+  - first:
+      213: 664852098221257645
+    second: gasha_geki2_40
+  - first:
+      213: 7199700287479846613
+    second: gasha_geki2_41
+  - first:
+      213: 8565804100084065571
+    second: gasha_geki2_42
+  - first:
+      213: 6581312411447501560
+    second: gasha_geki2_43
+  - first:
+      213: 7524714998784061394
+    second: gasha_geki2_44
+  - first:
+      213: -4452422708761712154
+    second: gasha_geki2_45
+  - first:
+      213: 7906250475256170743
+    second: gasha_geki2_46
+  - first:
+      213: -6209520755033447740
+    second: gasha_geki2_47
+  - first:
+      213: -8464364695336348435
+    second: gasha_geki2_48
+  - first:
+      213: 8145756468296424595
+    second: gasha_geki2_49
+  - first:
+      213: 586142824434401468
+    second: gasha_geki2_50
+  - first:
+      213: -7525327140169307916
+    second: gasha_geki2_51
+  - first:
+      213: 4300232253856698430
+    second: gasha_geki2_52
+  - first:
+      213: -1896933953402205111
+    second: gasha_geki2_53
+  - first:
+      213: -1950886429716740529
+    second: gasha_geki2_54
+  - first:
+      213: 8599611281580148126
+    second: gasha_geki2_55
+  - first:
+      213: -7230788523231140627
+    second: gasha_geki2_56
+  - first:
+      213: 8261448330286633445
+    second: gasha_geki2_58
+  - first:
+      213: -3342030983001162157
+    second: gasha_geki2_60
+  - first:
+      213: 294903362823636312
+    second: gasha_geki2_61
+  - first:
+      213: 5094116286706916773
+    second: gasha_geki2_62
+  - first:
+      213: 4564141337361427896
+    second: gasha_geki2_63
+  - first:
+      213: -7802004135232616258
+    second: gasha_geki2_64
+  - first:
+      213: -331263213738835951
+    second: gasha_geki2_65
+  - first:
+      213: 8710830024429228508
+    second: gasha_geki2_66
+  - first:
+      213: 9199693663380552328
+    second: gasha_geki2_67
+  - first:
+      213: -4105529790430705492
+    second: gasha_geki2_68
+  - first:
+      213: -2643665702796103795
+    second: gasha_geki2_69
+  - first:
+      213: 3133555179760597178
+    second: gasha_geki2_70
+  - first:
+      213: 4678396197192940687
+    second: gasha_geki2_71
+  - first:
+      213: 1161378844207597240
+    second: gasha_geki2_72
+  - first:
+      213: 2452748109337026817
+    second: gasha_geki2_73
+  - first:
+      213: -8394482040930385540
+    second: gasha_geki2_74
+  - first:
+      213: -8936737205487677946
+    second: gasha_geki2_75
+  - first:
+      213: 4679941633388846578
+    second: gasha_geki2_76
+  - first:
+      213: 4309706658617361682
+    second: gasha_geki2_83
+  - first:
+      213: 5842647166641814845
+    second: gasha_geki2_84
+  - first:
+      213: -797669408987105106
+    second: gasha_geki2_85
+  - first:
+      213: 4069160245043557003
+    second: gasha_geki2_90
+  - first:
+      213: -7719187396757613655
+    second: gasha_geki2_91
+  - first:
+      213: 8581111537239123360
+    second: gasha_geki2_1
+  - first:
+      213: -214672763482122130
+    second: gasha_geki2_2
+  - first:
+      213: 380973547588567008
+    second: gasha_geki2_3
+  - first:
+      213: 8826595008971361904
+    second: gasha_geki2_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gasha_geki2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 869
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb9829f02566e50800000000000000
+      internalID: 6802214514026201033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 989
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1c559b7e6efb50800000000000000
+      internalID: 6628857178601823623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 790
+        width: 160
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53b9eb39df12c80800000000000000
+      internalID: -8349113423168326152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 847
+        width: 296
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679b317b880884f0800000000000000
+      internalID: -826401136629278876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 870
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64c2aec549c6880800000000000000
+      internalID: -8616348860279929173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 780
+        width: 119
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aee7bfb6eeef430800000000000000
+      internalID: 3818751681605069466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 788
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c65fc95193b700800000000000000
+      internalID: 554946994013391235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 851
+        width: 419
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e6a3b38a1cecf0800000000000000
+      internalID: -221773128690898931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 712
+        width: 31
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b80f889b0221930800000000000000
+      internalID: 4112385390981188418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_17
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 827
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfd9c3f423f9190800000000000000
+      internalID: -7953583101012215023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 738
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35ee8f39855b7f30800000000000000
+      internalID: 4574343894490080573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_55
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 587
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95c60dd5e4f75770800000000000000
+      internalID: 8599611281580148126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_56
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 774
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de426d2062417ab90800000000000000
+      internalID: -7230788523231140627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_58
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 599
+        width: 239
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19af04c7f86a270800000000000000
+      internalID: 8261448330286633445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 603
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ebddd1788be91d0800000000000000
+      internalID: -3342030983001162157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_61
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 634
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cb28cb05b71400800000000000000
+      internalID: 294903362823636312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_62
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 632
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad92b1e5cfe1b640800000000000000
+      internalID: 5094116286706916773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_63
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 629
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdaa1e4d56175f30800000000000000
+      internalID: 4564141337361427896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8c4576396b9b390800000000000000
+      internalID: -7802004135232616258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 502
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11041f9bcdd176bf0800000000000000
+      internalID: -331263213738835951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 482
+        width: 226
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd159e851c513e870800000000000000
+      internalID: 8710830024429228508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_67
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 380
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab53015a0ebaf70800000000000000
+      internalID: 9199693663380552328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 188
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8089a586a3607c0800000000000000
+      internalID: -4105529790430705492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 182
+        width: 302
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f64ffcc00df4bd0800000000000000
+      internalID: -2643665702796103795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_70
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 430
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab837bd65df9c7b20800000000000000
+      internalID: 3133555179760597178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 457
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c393cdd800de040800000000000000
+      internalID: 4678396197192940687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_72
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 256
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c5a2d7eb0e1010800000000000000
+      internalID: 1161378844207597240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_73
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 336
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016b840969e90220800000000000000
+      internalID: 2452748109337026817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_74
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 316
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c2f44f0fc08b80800000000000000
+      internalID: -8394482040930385540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_75
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 266
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec3e74cd45af380800000000000000
+      internalID: -8936737205487677946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_76
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 258
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd14b3ce1e72f040800000000000000
+      internalID: 4679941633388846578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_83
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 25
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21506094f572fcb30800000000000000
+      internalID: 4309706658617361682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_84
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 67
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db0a374a0451150800000000000000
+      internalID: 5842647166641814845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_85
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 26
+        width: 181
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b02516eb1ee4f0800000000000000
+      internalID: -797669408987105106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_90
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 191
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8276fbfeaf887830800000000000000
+      internalID: 4069160245043557003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_91
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 18
+        width: 322
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3179de5ffefd490800000000000000
+      internalID: -7719187396757613655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 711
+        width: 281
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5e42b7a7b361770800000000000000
+      internalID: 8581111537239123360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 118
+        width: 196
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6852bd4244550df0800000000000000
+      internalID: -214672763482122130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 634
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef36dc4c6d794500800000000000000
+      internalID: 380973547588567008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gasha_geki2_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 488
+        width: 200
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e49f5356d5e7a70800000000000000
+      internalID: 8826595008971361904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gasha_geki2_76: 4679941633388846578
+      gasha_geki2_90: 4069160245043557003
+      gasha_geki2_65: -331263213738835951
+      gasha_geki2_70: 3133555179760597178
+      gasha_geki2_1: 8581111537239123360
+      gasha_geki2_8: -8616348860279929173
+      gasha_geki2_64: -7802004135232616258
+      gasha_geki2_85: -797669408987105106
+      gasha_geki2_68: -4105529790430705492
+      gasha_geki2_15: 4112385390981188418
+      gasha_geki2_2: -214672763482122130
+      gasha_geki2_17: -7953583101012215023
+      gasha_geki2_71: 4678396197192940687
+      gasha_geki2_69: -2643665702796103795
+      gasha_geki2_11: -221773128690898931
+      gasha_geki2_5: -8349113423168326152
+      gasha_geki2_61: 294903362823636312
+      gasha_geki2_67: 9199693663380552328
+      gasha_geki2_91: -7719187396757613655
+      gasha_geki2_83: 4309706658617361682
+      gasha_geki2_63: 4564141337361427896
+      gasha_geki2_9: 3818751681605069466
+      gasha_geki2_72: 1161378844207597240
+      gasha_geki2_4: 6628857178601823623
+      gasha_geki2_60: -3342030983001162157
+      gasha_geki2_20: 4574343894490080573
+      gasha_geki2_84: 5842647166641814845
+      gasha_geki2_55: 8599611281580148126
+      gasha_geki2_74: -8394482040930385540
+      gasha_geki2_7: 8826595008971361904
+      gasha_geki2_10: 554946994013391235
+      gasha_geki2_3: 380973547588567008
+      gasha_geki2_62: 5094116286706916773
+      gasha_geki2_75: -8936737205487677946
+      gasha_geki2_0: 6802214514026201033
+      gasha_geki2_73: 2452748109337026817
+      gasha_geki2_66: 8710830024429228508
+      gasha_geki2_6: -826401136629278876
+      gasha_geki2_56: -7230788523231140627
+      gasha_geki2_58: 8261448330286633445
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

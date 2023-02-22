@@ -1,0 +1,18 @@
+﻿ using System.Collections;
+ using System.Collections.Generic;
+ using UnityEngine;
+ using UnityEngine.SceneManagement;
+ 
+ public class TestScript : MonoBehaviour
+ {
+     public void ButtonFunction()
+     {
+         StartCoroutine(DelaySceneLoad());
+     }
+     
+     IEnumerator DelaySceneLoad()
+     {
+         yield return new WaitForSeconds(3f); // Wait 3 seconds
+         SceneManager.LoadScene("Scene2"); // Change to the ID or Name of the scene to load
+     }
+ }

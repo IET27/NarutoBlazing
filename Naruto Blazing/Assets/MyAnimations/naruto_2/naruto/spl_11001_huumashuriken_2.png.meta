@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: c00065ce1e8154b46bd3879c4d27569d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4178414794513366762
+    second: spl_11001_huumashuriken_2_0
+  - first:
+      213: -4956835143812170735
+    second: spl_11001_huumashuriken_2_3
+  - first:
+      213: -208820318791987611
+    second: spl_11001_huumashuriken_2_4
+  - first:
+      213: 326780088465844838
+    second: spl_11001_huumashuriken_2_7
+  - first:
+      213: -6538466275007812011
+    second: spl_11001_huumashuriken_2_8
+  - first:
+      213: -7303986656720271527
+    second: spl_11001_huumashuriken_2_9
+  - first:
+      213: 5922933086521576106
+    second: spl_11001_huumashuriken_2_10
+  - first:
+      213: -7389699198494224061
+    second: spl_11001_huumashuriken_2_11
+  - first:
+      213: 1114731153479009045
+    second: spl_11001_huumashuriken_2_12
+  - first:
+      213: 4143280933609432299
+    second: spl_11001_huumashuriken_2_13
+  - first:
+      213: -7589896078153927586
+    second: spl_11001_huumashuriken_2_14
+  - first:
+      213: -2462141084786273560
+    second: spl_11001_huumashuriken_2_15
+  - first:
+      213: -3022458055740459233
+    second: spl_11001_huumashuriken_2_16
+  - first:
+      213: 1795553258946765335
+    second: spl_11001_huumashuriken_2_19
+  - first:
+      213: -5544966297223390208
+    second: spl_11001_huumashuriken_2_20
+  - first:
+      213: -3898540454021224694
+    second: spl_11001_huumashuriken_2_21
+  - first:
+      213: 5301902782759356554
+    second: spl_11001_huumashuriken_2_22
+  - first:
+      213: 8677205257115049766
+    second: spl_11001_huumashuriken_2_23
+  - first:
+      213: 6468016355716699076
+    second: spl_11001_huumashuriken_2_24
+  - first:
+      213: 5521497733120396318
+    second: spl_11001_huumashuriken_2_25
+  - first:
+      213: -9002231130175906567
+    second: spl_11001_huumashuriken_2_26
+  - first:
+      213: 7911187408925772025
+    second: spl_11001_huumashuriken_2_28
+  - first:
+      213: -3928340645853033494
+    second: spl_11001_huumashuriken_2_31
+  - first:
+      213: 6388636711141002744
+    second: spl_11001_huumashuriken_2_36
+  - first:
+      213: 2212766782063969733
+    second: spl_11001_huumashuriken_2_39
+  - first:
+      213: 4417501523307896584
+    second: spl_11001_huumashuriken_2_50
+  - first:
+      213: -3631171847147589499
+    second: spl_11001_huumashuriken_2_32
+  - first:
+      213: 7518155934700803010
+    second: spl_11001_huumashuriken_2_1
+  - first:
+      213: 6669471561983308164
+    second: spl_11001_huumashuriken_2_2
+  - first:
+      213: -2630440118938335669
+    second: spl_11001_huumashuriken_2_5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 388
+        width: 185
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb43f0e16bcf930800000000000000
+      internalID: 4178414794513366762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 474
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c37eaf2b8c53bb0800000000000000
+      internalID: -4956835143812170735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 450
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e0584c60f1a1df0800000000000000
+      internalID: -208820318791987611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 426
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6da452c4f88400800000000000000
+      internalID: 326780088465844838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 356
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea94ea093b245a0800000000000000
+      internalID: -6538466275007812011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 104
+        height: 107
+      alignment: 9
+      pivot: {x: 0.56426996, y: 0.3473006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957cef975d603aa90800000000000000
+      internalID: -7303986656720271527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 332
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac68ad24c723250800000000000000
+      internalID: 5922933086521576106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 326
+        width: 123
+        height: 52
+      alignment: 9
+      pivot: {x: 0.010700133, y: 0.45016068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34153c43bb3827990800000000000000
+      internalID: -7389699198494224061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 308
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138d27f312587f00800000000000000
+      internalID: 1114731153479009045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 316
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4607c9e04ef7930800000000000000
+      internalID: 4143280933609432299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 321
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54318bdab54ba690800000000000000
+      internalID: -7589896078153927586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 289
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25b667ab7b4ddd0800000000000000
+      internalID: -2462141084786273560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 276
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17721779621e06d0800000000000000
+      internalID: -3022458055740459233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 235
+        width: 31
+        height: 72
+      alignment: 9
+      pivot: {x: 0.53584534, y: 0.1512021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71221defc261be810800000000000000
+      internalID: 1795553258946765335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 235
+        width: 28
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.86114407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9c7af7825c03b0800000000000000
+      internalID: -5544966297223390208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 216
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072397cc1a95e9c0800000000000000
+      internalID: -3898540454021224694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 198
+        width: 30
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c6008d74249940800000000000000
+      internalID: 5301902782759356554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9e712530ab6870800000000000000
+      internalID: 8677205257115049766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 140
+        width: 155
+        height: 132
+      alignment: 9
+      pivot: {x: 0.60227585, y: 0.42609453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c319e34b9203c950800000000000000
+      internalID: 6468016355716699076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 244
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c04c22fec40ac40800000000000000
+      internalID: 5521497733120396318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd6e3ab76a11380800000000000000
+      internalID: -9002231130175906567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 164
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8409c780f2acd60800000000000000
+      internalID: 7911187408925772025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 124
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb833feefabb79c0800000000000000
+      internalID: -3928340645853033494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 39
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5880479, y: 0.12675828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd44968d3ff8a850800000000000000
+      internalID: 6388636711141002744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 24
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c505bf1aa355be10800000000000000
+      internalID: 2212766782063969733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f93830b3e1e4d30800000000000000
+      internalID: 4417501523307896584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 127
+        height: 119
+      alignment: 9
+      pivot: {x: 0.53520703, y: 0.44534695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807e5c917c7b9dc0800000000000000
+      internalID: -3631171847147589499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 382
+        width: 149
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c316dd5dfad55860800000000000000
+      internalID: 7518155934700803010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 273
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b59b9c09be8c50800000000000000
+      internalID: 6669471561983308164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spl_11001_huumashuriken_2_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 19
+        width: 141
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5086486, y: 0.45404994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468eb306acce7bd0800000000000000
+      internalID: -2630440118938335669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spl_11001_huumashuriken_2_5: -2630440118938335669
+      spl_11001_huumashuriken_2_23: 8677205257115049766
+      spl_11001_huumashuriken_2_28: 7911187408925772025
+      spl_11001_huumashuriken_2_39: 2212766782063969733
+      spl_11001_huumashuriken_2_3: -4956835143812170735
+      spl_11001_huumashuriken_2_15: -2462141084786273560
+      spl_11001_huumashuriken_2_10: 5922933086521576106
+      spl_11001_huumashuriken_2_2: 6669471561983308164
+      spl_11001_huumashuriken_2_31: -3928340645853033494
+      spl_11001_huumashuriken_2_1: 7518155934700803010
+      spl_11001_huumashuriken_2_36: 6388636711141002744
+      spl_11001_huumashuriken_2_26: -9002231130175906567
+      spl_11001_huumashuriken_2_32: -3631171847147589499
+      spl_11001_huumashuriken_2_4: -208820318791987611
+      spl_11001_huumashuriken_2_8: -6538466275007812011
+      spl_11001_huumashuriken_2_0: 4178414794513366762
+      spl_11001_huumashuriken_2_11: -7389699198494224061
+      spl_11001_huumashuriken_2_22: 5301902782759356554
+      spl_11001_huumashuriken_2_9: -7303986656720271527
+      spl_11001_huumashuriken_2_16: -3022458055740459233
+      spl_11001_huumashuriken_2_24: 6468016355716699076
+      spl_11001_huumashuriken_2_12: 1114731153479009045
+      spl_11001_huumashuriken_2_13: 4143280933609432299
+      spl_11001_huumashuriken_2_20: -5544966297223390208
+      spl_11001_huumashuriken_2_21: -3898540454021224694
+      spl_11001_huumashuriken_2_7: 326780088465844838
+      spl_11001_huumashuriken_2_25: 5521497733120396318
+      spl_11001_huumashuriken_2_14: -7589896078153927586
+      spl_11001_huumashuriken_2_19: 1795553258946765335
+      spl_11001_huumashuriken_2_50: 4417501523307896584
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

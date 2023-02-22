@@ -1,0 +1,18 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Destroy : MonoBehaviour
+{
+	public GameObject Naruto5Clone;
+	
+    void OnMouseDown()
+    {
+		Naruto5Clone = GameObject.Find("Naruto5Clone");
+		Naruto5Clone.SetActive(true);
+    }
+	
+	void OnMouseUp()
+    {
+		Naruto5Clone.SetActive(false);
+	}
+}

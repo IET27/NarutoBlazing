@@ -1,0 +1,34 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class PlayerName : MonoBehaviour
+{
+	public string nameOfPlayer;
+	public string saveName;
+	
+	public Text inputText;
+	public Text loadedName;
+	public Text WarningText;
+	{
+    if( string.IsNullOrEmpty( inputField.text ))
+    {
+         WarningText.text = "Input is empty";
+         WarningText.gameObject.SetActive( true );
+    }
+    else
+         WarningText.gameObject.SetActive( false );
+	
+	void Update()
+	{
+		nameOfPlayer = PlayerPrefs.GetString("name" , "none");
+		loadedName.text = nameOfPlayer;
+	}
+	
+	public void SetName()
+	{
+		saveName = inputText.text;
+		PlayerPrefs.SetString("name" , saveName);
+	}
+}
